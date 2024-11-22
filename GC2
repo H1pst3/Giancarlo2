@@ -1,0 +1,8 @@
+cd
+git init
+git remote add origin
+git checkout master
+git add .
+git commit -m "2do commit" 
+git push -u origin master
+git status
